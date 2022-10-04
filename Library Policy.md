@@ -23,8 +23,4 @@
 ##### Library privilliages of members 
 #
 #
-|A |B
-|--|--
-|1<td rowspan="2">3</td>|2
-|4|5
-|6|7 
+
