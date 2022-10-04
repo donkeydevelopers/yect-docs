@@ -20,13 +20,7 @@
  
 ##### Library privilliages of members 
 
-| Category | No.Of books | Duration | Renewal Period |
-| ------ | ------ | ------ | ------ |
-| Students B.Tech | 3 Books | 14 Days | 3 times |
-| Students M.Tech | 4 Books | 14 Days | 3 times |
-| Faculty | 10 Books | 1 Semester |  
-| Non-Teaching Staff | 4 Books | 3 Months |
-
+![Library privilliages](library_privilliages.png)
 
 
 ##### Overdue charges
