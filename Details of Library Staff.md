@@ -2,11 +2,11 @@
 
 ![Oommen Panicker](https://imgur.com/eZfuf8k.png)
 
-![Raseena Beegam](https://imgur.com/6EuzjEG.png)
+![Raseena Beegam](https://imgur.com/OtwDvyF.png)
 
-![Anas](https://imgur.com/iJ3jeDO.png)
+![Anas](https://imgur.com/3KQBBDv.png)
 
-![Sameerudeen](https://imgur.com/KNglFy3.png)
+![Sameerudeen](https://imgur.com/iOi8aut.png)
 
 
 
