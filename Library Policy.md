@@ -15,12 +15,12 @@
 - Reference books, Journal/Magazines, Newspapers, Conference proceedings.. etc. are not allowed for borrowing.
 - Use of PCs inside library is restricted to academic purpose only.
 
-##### Circulation policies
+###### Circulation policies
 - Library circulation controlled by Automation software KOHA.
 - Each student shall be provided Borrower’s cards for taking books from the library.
 - Producing student’s ID card is must for issuing Borrower’s Cards & Books.
  
-##### Library privilliages of members 
+###### Library privilliages of members 
 #
 #
 
