@@ -22,10 +22,10 @@
 
 | Category | No.Of books | Duration | Renewal Period |
 | ------ | ------ | ------ | ------ |
-| Students B.Tech | 3 Books | 14 DAYS | 3 times |
-| Students M.Tech | 4 Books | 14 DAYS | 3 times |
-| Faculty | 10 BOOKS | 1 Semester | - |
-| Non-Teaching Staff | 4 Books | 3 Months | - |
+| Students B.Tech | 3 Books | 14 Days | 3 times |
+| Students M.Tech | 4 Books | 14 Days | 3 times |
+| Faculty | 10 Books | 1 Semester |  
+| Non-Teaching Staff | 4 Books | 3 Months |
 
 ##### Overdue charges
 Issue of books will be initially for a period of 14 days and book should be returned on or before the due date stamped on  the date slip pasted on the book. The fine will be charged @  1.00 per day. If the due fall on a holiday the next working day shall be the due date. The students can renew the books thrice on or before the due date, if they wish. However return of books on the date of issue itself is not possible.
