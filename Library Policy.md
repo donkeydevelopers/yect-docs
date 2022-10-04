@@ -20,7 +20,7 @@
  
 ##### Library privilliages of members 
 
-![Library privilliages](library_privilliages.png)
+![Library privilliages](https://imgur.com/F8BN78I.png)
 
 
 ##### Overdue charges
