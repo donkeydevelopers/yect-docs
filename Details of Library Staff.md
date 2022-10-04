@@ -1,6 +1,6 @@
 ### Details of Library Staff
 
-![Oommen Panicker](https://imgur.com/R68EI4M.png)
+![Oommen Panicker](https://imgur.com/eZfuf8k.png)
 
 ![Raseena Beegam](https://imgur.com/6EuzjEG.png)
 
